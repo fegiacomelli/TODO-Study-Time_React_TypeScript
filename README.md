@@ -1,3 +1,8 @@
+
+
+![React App - Google Chrome 2022-07-22 16-30-49](https://user-images.githubusercontent.com/69607844/184259943-5c25f24c-7aca-4c8e-b033-5d99e6c36f58.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
